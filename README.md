@@ -22,3 +22,5 @@ The program has the following functionality:
 - Adjust VIP member discount rates and threshold limit
 - Display most valuable customer
 - Display most popular product
+
+Upon program termination, the program will update the initial given txt documents with any new orders or changes so they are included when the program is run again next time.
